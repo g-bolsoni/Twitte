@@ -2,7 +2,7 @@ import styled, { css } from 'styled-components';
 
 import {
   Home,
-  Notifications,
+  Notifications,  
   Email,
   FavoriteBorder,
   Person,
@@ -80,7 +80,7 @@ export const MenuButton = styled.button`
     }
   }
   cursor: pointer;
-  border-radius: 25px;
+  border-radius:25px;
   &:hover {
     background: var(--twitter-dark-hover);
   }

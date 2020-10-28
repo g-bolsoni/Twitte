@@ -158,8 +158,6 @@ const IconsCss = css`
     width:19px;
     height:19px;
     margin-right: 4px;
-
-    
 `;
 
 export const CommentIcon = styled(Chat)`${IconsCss}`;
