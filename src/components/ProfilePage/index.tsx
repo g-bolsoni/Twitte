@@ -25,9 +25,10 @@ const ProfilePage: React.FC = () => {
             <h2>@giovane-bolsoni</h2>
             <p>
                 Developer at 
-                {/*eslint-disable-next-line*/}
+                {/*eslint-disable-next-line */}
                 <a href="https://github.com/g-bolsoni/Copy-Twitter"/>
                     @Github
+                {/*eslint-disable-next-line */}
                 <a/>
             </p>
 
