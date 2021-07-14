@@ -1,5 +1,5 @@
 # Link for the site
-https://peaceful-kirch-aa4d02.netlify.app/ 
+https://twitter-clone-by-giovane.netlify.app/
 # A copy of the Twitter layout
 
 ## The layout in Moblile (<500px)
